@@ -1,7 +1,7 @@
 # Music_Equlizer_With_Interactive_Instruments
 # Read Me Template
 
-![Project Image](project-image-url)
+![Music Equlizer With Interactive Instruments](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments)
 
 > This is a ReadMe template to help save you time and effort.
 
