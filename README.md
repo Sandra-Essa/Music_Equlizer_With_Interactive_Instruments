@@ -1,6 +1,5 @@
 # Music Equlizer With Interactive Instruments
 ---
-
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
