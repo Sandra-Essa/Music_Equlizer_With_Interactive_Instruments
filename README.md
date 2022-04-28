@@ -9,18 +9,25 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
-## Description
+## Features
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Develop and application for musical instruments: 
 
-#### Technologies
-
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
-
+- Open audio file
+- Real Time Plotting for music file
+- Spectrogram for Real Time plotting
+- Real Time Equlizer for 3 instrument with frequency range and Spectrogram
+- Interactive Drum with Equlizer for frequency range
+- Interactive Piano with Equlizer for frequency range
+- Interactive Guitar 
 ---
+### Demos:-
+---
+# Open audio file
+# Real Time Plotting for music file
+# Spectrogram for Real Time plotting
+# Real Time Equlizer for 3 instrument with frequency range and Spectrogram
+![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
 
 ## How To Use
 
