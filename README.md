@@ -26,6 +26,7 @@ Develop and application for musical instruments:
 -Real Time Plotting for music file
 -Spectrogram for Real Time plotting
 -Real Time Equlizer for 3 instrument with frequency range and Spectrogram
+---
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
 ----
 -Interactive Drum with Equlizer for frequency range
