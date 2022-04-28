@@ -1,20 +1,11 @@
-# Music_Equlizer_With_Interactive_Instruments
-# Read Me Template
-
-![Music Equlizer With Interactive Instruments](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments)
-
-> This is a ReadMe template to help save you time and effort.
-
+# Music Equlizer With Interactive Instruments
 ---
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+- [Features](#Features)
+- [Demos](#Demos)
 
 ---
 
