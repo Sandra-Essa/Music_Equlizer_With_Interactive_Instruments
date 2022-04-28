@@ -3,12 +3,12 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Features](#Features)
-- [Demos](#Demos)
+- [Features:-](#Features:-)
+- [Demos:-](#Demos:-)
 
 ---
 
-## Features
+## Features:-
 
 Develop and application for musical instruments: 
 
@@ -20,14 +20,14 @@ Develop and application for musical instruments:
 - Interactive Piano with Equlizer for frequency range
 - Interactive Guitar 
 ---
-### Demos:-
+## Demos:-
 ---
 # Open audio file
 # Real Time Plotting for music file
 # Spectrogram for Real Time plotting
 # Real Time Equlizer for 3 instrument with frequency range and Spectrogram
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
-
+----
 ## How To Use
 
 #### Installation
