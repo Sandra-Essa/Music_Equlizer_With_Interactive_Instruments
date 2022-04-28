@@ -22,20 +22,20 @@ Develop and application for musical instruments:
 ---
 ### Demos
 ---
-- Open audio file
-- Real Time Plotting for music file
-- Spectrogram for Real Time plotting
-- Real Time Equlizer for 3 instrument with frequency range and Spectrogram
+-Open audio file
+-Real Time Plotting for music file
+-Spectrogram for Real Time plotting
+-Real Time Equlizer for 3 instrument with frequency range and Spectrogram
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
-----
-- Interactive Drum with Equlizer for frequency range
+---
+-Interactive Drum with Equlizer for frequency range
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF2.gif)
-----
+---
 -Interactive Piano with Equlizer for frequency range
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF3.gif)
 ----
-- Interactive Guitar
-- ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF4.gif)
+-Interactive Guitar
+![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF4.gif)
 ----
 ### Tools
 ----
