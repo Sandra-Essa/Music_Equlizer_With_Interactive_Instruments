@@ -27,10 +27,10 @@ Develop and application for musical instruments:
 -Spectrogram for Real Time plotting
 -Real Time Equlizer for 3 instrument with frequency range and Spectrogram
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
----
+----
 -Interactive Drum with Equlizer for frequency range
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF2.gif)
----
+----
 -Interactive Piano with Equlizer for frequency range
 ![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF3.gif)
 ----
@@ -41,4 +41,4 @@ Develop and application for musical instruments:
 ----
 - Python
 - Qt Designer
-------------------
+----
